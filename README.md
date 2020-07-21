@@ -24,7 +24,6 @@ Following is the summary of various models on the validation set:
 |Char counts & char length difference with Logistic Regression| 0.58|65%|
 | Char counts & char length difference with Random Forest | 0.55 | 68%|
 | Char counts & char length difference with XGBoost | 0.55 |68%|
-
 | Tf-idf & char length difference with Logistic Regression | 0.58 |65%|
 | Tf-idf & char length difference with Random Forest | 0.56 |67%|
 | Tf-idf & char length difference with XGBoost | 0.55|67%|
